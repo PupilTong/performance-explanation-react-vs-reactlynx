@@ -1,0 +1,8 @@
+#table > div {
+  padding: 5px;
+  height: 50px;
+}
+
+.loading {
+  background-color: #ccc;
+}
